@@ -26,8 +26,10 @@ These skills drive the **Higgsfield MCP** server for all image and video generat
 - When unsure: `models_explore(action:'recommend', query:<brief>, type:'image')`.
 
 **Video (`generate_video`)**
-- `seedance_2_0` — the Seedance 2.0 family (identity-consistent, native audio). Resolve the **Fast** variant id at runtime via `models_explore(action:'search', query:'seedance 2.0 fast', type:'video')`.
-- Fall back to `kling3_0` / `kling3_0_turbo` only if Seedance doesn't fit the brief.
+- `seedance_2_0` — the Seedance 2.0 model (identity-consistent, native audio, image/video/audio references). **Seedance 2.0 Fast = `model: seedance_2_0` + `params.mode: "fast"`** — it is a mode, not a separate model id. `fast` is cheaper/faster, does not support 1080p, and requires a lower plan tier; use `mode: "std"` otherwise.
+  - Image-to-video: `medias[]` role `start_image` (the `job_id` from `generate_image`). Audio reference: role `audio`. `generate_audio` defaults `true`. Duration 4–15s. Aspect ratios: `auto`, `21:9`, `16:9`, `4:3`, `1:1`, `3:4`, `9:16`.
+  - Re-check current params anytime with `models_explore(action:'get', model_id:'seedance_2_0')`.
+- Fall back to `kling3_0_turbo` / `veo3` (`model: fast`) only if Seedance doesn't fit the brief.
 
 ## Conventions every skill follows
 

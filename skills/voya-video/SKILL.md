@@ -14,8 +14,12 @@ Read `.agents/voya-brand-context.md` for visual style, pacing, and per-platform 
 - **Image-to-video (preferred)** — the user has a `job_id` from `voya-image`. The image is the first frame; we add motion.
 - **Text-to-video** — no image; generate the clip from a prompt directly.
 
-## Step 2 — Resolve the Seedance 2.0 Fast model id
-Call `models_explore(action:'search', query:'seedance 2.0 fast', type:'video')` (or `action:'get'`) to confirm the exact current model id for the **Fast** variant. Use `model: seedance_2_0` family. Seedance is identity-consistent and supports native audio, ~under 5 min generation, up to 15s per shot.
+## Step 2 — Select Seedance 2.0 Fast
+"Fast" is **not a separate model** — it's the Seedance 2.0 model in fast mode:
+- `model: "seedance_2_0"`
+- `params.mode: "fast"` (cheaper and faster; does **not** support 1080p and requires a lower plan tier — fall back to `mode: "std"` if fast is unavailable).
+
+Seedance is identity-consistent and supports native audio (`generate_audio` defaults to `true`; set `false` for a silent clip). Duration 4–15s per shot. Run `models_explore(action:'get', model_id:'seedance_2_0')` if you need to re-check current params, resolutions, or aspect ratios.
 
 ## Step 3 — Engineer the motion prompt
 Describe, concisely:
@@ -26,10 +30,12 @@ Describe, concisely:
 Keep motion believable; over-instructing causes artifacts.
 
 ## Step 4 — Set params and preflight cost
-- `medias[]`: for image-to-video, add `{ role: "start_image", value: "<job_id from voya-image>" }`. Never pass a raw URL — use the `job_id`, or `media_import_url`/`media_upload_widget` for new media.
-- `duration`: per platform (Reels/TikTok hooks often 5–9s); model clamps to nearest allowed value.
-- `aspect_ratio`: platform default (`9:16` for Reels/TikTok/Stories, `16:9` landscape, `1:1` square).
-- `count`: 1 unless options wanted.
+- `model: "seedance_2_0"`, `params.mode: "fast"`.
+- `medias[]`: for image-to-video, add `{ role: "start_image", value: "<job_id from voya-image>" }`. Audio references use role `audio`. Never pass a raw URL — use the `job_id`, or `media_import_url`/`media_upload_widget` for new media.
+- `duration`: per platform, 4–15s (Reels/TikTok hooks often 5–9s); model clamps to nearest allowed value.
+- `aspect_ratio`: platform default — Seedance supports `9:16` (Reels/TikTok/Stories), `16:9`, `1:1`, `4:3`, `3:4`, `21:9`, `auto`.
+- `generate_audio`: leave `true` for native sound, or `false` for silent.
+- `count`: 1 unless options wanted. Note: `mode:"fast"` does not support 1080p.
 - **Always call once with `get_cost: true` first**, show the credit cost, and proceed only on confirmation.
 
 ## Step 5 — Generate and report

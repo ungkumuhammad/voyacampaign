@@ -20,7 +20,7 @@ Offer 2–3 short post concepts (the hook + the visual idea). Let the user pick 
 Follow **voya-image**: engineer the prompt from brand context, pick the model (`marketing_studio_image` default), preflight cost with `get_cost`, generate, capture the `job_id`. Show the image and confirm before animating.
 
 ## Step 4 — Generate the video
-Follow **voya-video**: use the image `job_id` as `start_image`, resolve the Seedance 2.0 Fast model via `models_explore`, engineer the motion prompt, preflight cost, generate.
+Follow **voya-video**: use the image `job_id` as `start_image`, set `model: seedance_2_0` with `params.mode: "fast"`, engineer the motion prompt, preflight cost, generate.
 
 ## Step 5 — Write the copy
 Using the brand tone/voice, write per platform: a hook, caption, hashtags, and a posting note (best aspect ratio, suggested time, CTA).
