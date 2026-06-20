@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <!-- Deep near-black background with very subtle indigo tint -->
+    <radialGradient id="bgRadial" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#130B35"/>
+      <stop offset="100%" stop-color="#0A0818"/>
+    </radialGradient>
+
+    <!-- Gold star gradient -->
+    <linearGradient id="starGradEnd" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#FFE5A0"/>
+      <stop offset="45%" stop-color="#EAA520"/>
+      <stop offset="100%" stop-color="#9B6510"/>
+    </linearGradient>
+
+    <!-- Star soft glow -->
+    <filter id="softGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Halo -->
+    <filter id="halo" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="32" result="blur"/>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&amp;display=swap');
+
+      .headline {
+        font-family: 'DM Serif Display', 'Georgia', serif;
+        font-style: italic;
+        fill: #FFFFFF;
+      }
+      .sub {
+        font-family: 'DM Serif Display', 'Georgia', serif;
+        font-style: normal;
+        fill: rgba(255,255,255,0.55);
+      }
+      .mono {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        fill: rgba(255,255,255,0.35);
+        letter-spacing: 0.22em;
+      }
+    </style>
+  </defs>
+
+  <!-- ── Background ── -->
+  <rect width="1080" height="1350" fill="url(#bgRadial)"/>
+
+  <!-- Soft vignette -->
+  <radialGradient id="vig2" cx="50%" cy="50%" r="65%">
+    <stop offset="0%" stop-color="transparent"/>
+    <stop offset="100%" stop-color="rgba(0,0,0,0.6)"/>
+  </radialGradient>
+  <rect width="1080" height="1350" fill="url(#vig2)"/>
+
+  <!-- ── Atmospheric halo behind star ── -->
+  <ellipse cx="540" cy="510" rx="120" ry="120" fill="#EAA520" fill-opacity="0.08" filter="url(#halo)"/>
+
+  <!-- ── Four-pointed star (smaller — 95px outer, 20px inner) ── -->
+  <!-- Center: 540, 510 -->
+  <!-- Outer: N(540,415) E(635,510) S(540,605) W(445,510) -->
+  <!-- Inner: NE(554.1,495.9) SE(554.1,524.1) SW(525.9,524.1) NW(525.9,495.9) -->
+  <polygon
+    points="540,415 554.1,495.9 635,510 554.1,524.1 540,605 525.9,524.1 445,510 525.9,495.9"
+    fill="url(#starGradEnd)"
+    filter="url(#softGlow)"
+  />
+  <polygon
+    points="540,415 554.1,495.9 635,510 554.1,524.1 540,605 525.9,524.1 445,510 525.9,495.9"
+    fill="none"
+    stroke="#FFF8E0"
+    stroke-width="0.8"
+    stroke-opacity="0.5"
+  />
+
+  <!-- ── Primary text: Malay line ── -->
+  <text
+    x="540"
+    y="720"
+    text-anchor="middle"
+    class="headline"
+    font-size="72"
+    fill="#FFFFFF"
+  >Tidak lama lagi.</text>
+
+  <!-- ── Divider ── -->
+  <line x1="460" y1="752" x2="620" y2="752" stroke="#EAA520" stroke-width="0.8" stroke-opacity="0.55"/>
+
+  <!-- ── English translation ── -->
+  <text
+    x="540"
+    y="800"
+    text-anchor="middle"
+    class="sub"
+    font-size="52"
+  >Soon.</text>
+
+  <!-- ── Subtle bottom label ── -->
+  <text
+    x="540"
+    y="1260"
+    text-anchor="middle"
+    class="mono"
+    font-size="18"
+  >@voyaapp</text>
+
+</svg>

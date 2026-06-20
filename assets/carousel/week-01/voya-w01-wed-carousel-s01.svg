@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <!-- Background gradient: deep indigo to near-black -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3C1DDE"/>
+      <stop offset="55%" stop-color="#1A0A6E"/>
+      <stop offset="100%" stop-color="#0A0818"/>
+    </linearGradient>
+
+    <!-- Gold star radial glow -->
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD87A" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#EAA520" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Star body gradient: bright gold core to deeper gold -->
+    <linearGradient id="starGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE5A0"/>
+      <stop offset="40%" stop-color="#EAA520"/>
+      <stop offset="100%" stop-color="#B8780E"/>
+    </linearGradient>
+
+    <!-- Subtle noise texture overlay -->
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
+      <feBlend in="SourceGraphic" in2="grayNoise" mode="overlay" result="blended"/>
+      <feComposite in="blended" in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- Glow filter for star -->
+    <filter id="glowFilter" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Outer halo filter -->
+    <filter id="haloFilter" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+    </filter>
+
+    <!-- Google Fonts: DM Serif Display -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&amp;display=swap');
+
+      .tagline {
+        font-family: 'DM Serif Display', 'Georgia', serif;
+        font-style: italic;
+        fill: #FFFFFF;
+        letter-spacing: 0.05em;
+      }
+      .label {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        fill: rgba(255,255,255,0.4);
+        letter-spacing: 0.25em;
+      }
+    </style>
+  </defs>
+
+  <!-- ── Background ── -->
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+
+  <!-- Subtle vignette -->
+  <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+    <stop offset="0%" stop-color="transparent"/>
+    <stop offset="100%" stop-color="rgba(0,0,0,0.55)"/>
+  </radialGradient>
+  <rect width="1080" height="1350" fill="url(#vignette)"/>
+
+  <!-- ── Star halo / atmospheric glow ── -->
+  <ellipse cx="540" cy="490" rx="200" ry="200" fill="url(#starGlow)" filter="url(#haloFilter)"/>
+
+  <!-- ── Four-pointed star ── -->
+  <!-- Outer radius: 155, inner radius: 32, center: 540, 490 -->
+  <!-- Outer tips at N/E/S/W, inner at NE/SE/SW/NW -->
+  <!-- N: 540,335 | E: 695,490 | S: 540,645 | W: 385,490 -->
+  <!-- NE: 562.6,467.4 | SE: 562.6,512.6 | SW: 517.4,512.6 | NW: 517.4,467.4 -->
+  <polygon
+    points="540,335 562.6,467.4 695,490 562.6,512.6 540,645 517.4,512.6 385,490 517.4,467.4"
+    fill="url(#starGrad)"
+    filter="url(#glowFilter)"
+  />
+
+  <!-- Star inner highlight (fine bright line down the left tip edge) -->
+  <polygon
+    points="540,335 562.6,467.4 695,490 562.6,512.6 540,645 517.4,512.6 385,490 517.4,467.4"
+    fill="none"
+    stroke="#FFF8E0"
+    stroke-width="1.2"
+    stroke-opacity="0.6"
+  />
+
+  <!-- ── Wordmark text ── -->
+  <!-- "✦ Voya." in DM Serif Display Italic, white -->
+  <text
+    x="540"
+    y="770"
+    text-anchor="middle"
+    class="tagline"
+    font-size="92"
+    fill="#FFFFFF"
+  >✦ Voya.</text>
+
+  <!-- Thin horizontal rule below wordmark -->
+  <line x1="430" y1="808" x2="650" y2="808" stroke="#EAA520" stroke-width="1" stroke-opacity="0.6"/>
+
+  <!-- Phase / week label (subtle, monospaced) -->
+  <text
+    x="540"
+    y="858"
+    text-anchor="middle"
+    class="label"
+    font-size="20"
+  >PHASE A — WEEK 1</text>
+
+</svg>

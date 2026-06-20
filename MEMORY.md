@@ -4,6 +4,56 @@
 
 ---
 
+## SESSION 4 — 2026-06-20 (carousel development)
+
+### What was done this session
+
+1. **Confirmed Higgsfield MCP workspace** — selected workspace `c7941151-daa6-487a-9f57-b3c3d9b45110`, balance 939 credits (Plus plan).
+
+2. **Chose image model** — ran `models_explore(recommend)`. Selected **Recraft 4.1** (`recraft-v4-1`, standard mode) over GPT Image 2 (not available via MCP this session). Cost: 8 credits/image vs expected 7.
+
+3. **Generated all 4 carousel image slides (S02–S05)** in parallel — all completed at 1792×2304px (2K, 4:5):
+
+| Slide | Description | Higgsfield Job ID | Status |
+|---|---|---|---|
+| S02 | Gold particle star (black bg) | `0e2dc55f-ae4d-4db6-adc8-134b54505cbd` | ✅ Completed |
+| S03 | Geometric metallic star (indigo bg) | `5dddb706-599d-4db6-94f1-4252a6856309` | ✅ Completed |
+| S04 | KL skyline + star constellation | `5307c69c-f655-4639-951d-128188aafff8` | ✅ Completed |
+| S05 | Aerial ocean + lens flare | `13ad8155-ca30-478b-8b84-42b909a60656` | ✅ Completed |
+
+4. **Created typography slides S01 and S06** as production SVGs (since Canva not available):
+   - `assets/carousel/week-01/voya-w01-wed-carousel-s01.svg` — indigo gradient cover, gold star, "✦ Voya." in DM Serif Display italic
+   - `assets/carousel/week-01/voya-w01-wed-carousel-s06.svg` — near-black end card, "Tidak lama lagi. / Soon."
+
+5. **Created carousel manifest** — `assets/carousel/week-01/CAROUSEL-MANIFEST.md` with all job IDs, URLs, download instructions, caption, export steps, quality checklist.
+
+6. **Credits spent this session:** 32 credits (4 × 8). Balance now **907**.
+
+---
+
+### Critical findings this session
+
+| Item | Finding |
+|---|---|
+| GPT Image 2 via MCP | Not available in model list this session — used Recraft 4.1 instead |
+| Recraft 4.1 cost | 8 credits/image (preflight confirmed), not 7 as budgeted — negligible difference |
+| Recraft 4.1 quality | Supports 4:5, 2K resolution, color palette params — ideal for brand carousel work |
+| CloudFront limitation | Still present — Higgsfield output URLs need browser session to download. Must use web UI |
+| Typography slides | Created as SVGs in repo — export to PNG via Chrome headless or Inkscape |
+
+---
+
+### Next session actions (updated)
+
+1. **Download slides S02–S05** from Higgsfield web UI (History tab) and rename: `voya-w01-wed-carousel-s02.png` through `s05.png`
+2. **Export slides S01 & S06** from SVG to PNG (1080×1350px) using browser or Inkscape
+3. **Upload all 6 slides** to Google Drive: `Week-01/Carousel` folder (`1EeIV5jgt3nUDyqHt1uC9Qvo2MEHg0WGk`)
+4. **Schedule carousel post** in Buffer/Later: Wednesday 25 June, 6:00 PM MYT
+5. **Generate 6 videos** in Higgsfield web UI (Enhanced Seedance 2.0 Fast Unlimited — 0 credits) per `Week-01-Higgsfield-Brief.md` priority order
+6. **Build `Week-02-Higgsfield-Brief.md`** — plan next carousel and video content
+
+---
+
 ## SESSION 3 — 2026-06-20 (tonight)
 
 ### What was done this session
