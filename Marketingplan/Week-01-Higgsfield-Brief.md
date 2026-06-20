@@ -6,6 +6,26 @@
 
 ## Before You Start
 
+**Tools confirmed for tonight:**
+- **Videos → Seedance Fast 2.0** (unlimited — 0 diamonds)
+- **Images → GPT Image 2** (7 diamonds per generation)
+- **Audio → royalty-free only** (Pixabay / Epidemic Sound — skip `generate_audio` to save diamonds)
+
+**Diamond budget for tonight:**
+
+| Item | Count | Cost each | Total |
+|---|---|---|---|
+| Videos (Seedance Fast 2.0) | 6 | 0 ✦ unlimited | **0** |
+| Carousel images (GPT Image 2) | 4 | 7 ✦ | **28** |
+| Slide 1 + 6 covers (Canva) | 2 | 0 | **0** |
+| Story templates (Canva) | 3 | 0 | **0** |
+| **Base total** | | | **28 diamonds** |
+| Regeneration buffer (1 per image, worst case) | 4 | 7 ✦ | +28 |
+| **Realistic range** | | | **28–35 diamonds** |
+| **Absolute worst case** | | | **56 diamonds** |
+
+> GPT Image 2 can struggle with precise star geometry on first try — slides 2 and 3 (star shapes) are most likely to need a redo. Budget one regeneration across the 4 slides.
+
 **Brand assets to have open:**
 - `Voya/Business/Voya.png` — the four-pointed star wordmark (for compositing only — never regenerate)
 - Hex codes: Indigo `#3C1DDE`, Gold `#EAA520`, Near-black `#0A0818`
@@ -34,7 +54,7 @@ Ultra-cinematic macro shot. A four-pointed star of light appears from total dark
 
 **Post-generation:**
 - Composite `Voya.png` (white, star only) + wordmark "Voya" centred over the near-black fade at 8–10s.
-- Audio: Do NOT use generate_audio for this one. Source a royalty-free ambient pad (deep, slow, mysterious). If generate_audio is preferred: `generate_audio(style:'cinematic ambient', mood:'mysterious', bpm:60, duration:10)`
+- Audio: Royalty-free ambient pad (deep, slow, mysterious). Recommended: Pixabay search "cinematic ambient dark".
 
 **Virality check hook note:** The hook (first 3s) must show DARKNESS → LIGHT. If the generated video opens with a bright frame, regenerate.
 
@@ -53,7 +73,7 @@ Cinematic aerial drone shot over a turquoise tropical island, Malaysian style re
 
 **Post-generation:**
 - Composite small `Voya.png` star (white, 12% screen width) at bottom-right corner. Appears at 10s, stays to end.
-- Audio: `generate_audio(style:'cinematic ambient', mood:'dreamy aspirational', bpm:70, duration:12)` — or ambient ocean waves.
+- Audio: Royalty-free ocean waves + soft score. Pixabay search "ocean cinematic ambient".
 
 ---
 
@@ -70,7 +90,7 @@ Macro cinematic shot. A hand slowly traces a four-pointed star on a fogged windo
 
 **Post-generation:**
 - No logo overlay needed — the traced star IS the mark.
-- Audio: `generate_audio(style:'ambient', mood:'intimate warm', bpm:55, duration:10)` — or gentle rain sound.
+- Audio: Royalty-free gentle rain + interior ambience. Pixabay search "rain window ambient".
 
 ---
 
@@ -124,7 +144,7 @@ Cinematic interior train shot, camera looking out the window. Dense Malaysian ju
 
 **Post-generation:**
 - No logo overlay — lens flare is the mark.
-- Audio: Train rhythm + ambient jungle birds. Use `generate_audio` or source royalty-free.
+- Audio: Royalty-free train rhythm + jungle birds. Pixabay search "train jungle ambient".
 
 ---
 
@@ -160,7 +180,7 @@ Cinematic sunset beach shot. Camera positioned low, level with wet sand surface.
 
 **Post-generation:**
 - At 12s, overlay "Voya." in DM Serif Display italic, white, bottom-centre. Fade in over 1 second.
-- Audio: Soft ocean waves, gentle cinematic score. Use `generate_audio(style:'cinematic', mood:'meditative aspirational', bpm:65, duration:15)`.
+- Audio: Royalty-free ocean waves + gentle cinematic score. Pixabay search "beach cinematic meditative".
 
 ---
 
