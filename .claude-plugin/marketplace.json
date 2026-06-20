@@ -1,0 +1,34 @@
+{
+  "name": "voyacampaign",
+  "version": "0.1.0",
+  "description": "Voya campaign skills — turn a content idea into an on-brand image and a Seedance 2.0 Fast video via the Higgsfield MCP.",
+  "author": "Voya",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "voya-brand-context",
+      "source": "./skills/voya-brand-context",
+      "description": "Define or update the Voya brand & visual identity in one persistent context file."
+    },
+    {
+      "name": "voya-image",
+      "source": "./skills/voya-image",
+      "description": "Generate an on-brand image with the Higgsfield MCP; returns a reusable job_id."
+    },
+    {
+      "name": "voya-video",
+      "source": "./skills/voya-video",
+      "description": "Animate an image (or text) into a Seedance 2.0 Fast video via the Higgsfield MCP."
+    },
+    {
+      "name": "voya-campaign",
+      "source": "./skills/voya-campaign",
+      "description": "End-to-end: brand context to image to video to a per-platform post package."
+    }
+  ],
+  "mcp": {
+    "requires": [
+      "higgsfield"
+    ]
+  }
+}

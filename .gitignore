@@ -1,0 +1,6 @@
+# Local brand context is generated per-user at runtime
+.agents/
+
+# OS / editor noise
+.DS_Store
+*.swp
