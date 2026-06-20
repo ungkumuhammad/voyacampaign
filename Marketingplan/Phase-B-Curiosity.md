@@ -16,6 +16,7 @@ Week 4 opens Phase B with the first direct engagement — one month in, we ask f
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w04-mon-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Rapid-fire travel montage — flight search tab, passport stamp, suitcase zipper closing.
 
@@ -50,6 +51,7 @@ Now tell us — what do you think it is?
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w04-tue-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Close on the Petronas Twin Towers reflection in a glass building — star flares in.
 
@@ -81,6 +83,7 @@ It's for Malaysian travellers.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w04-wed-wanderlust.mp4` + `voya-w04-wed-carousel-s01–s06.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -135,6 +138,7 @@ Which type are you? Tag a friend whose travel style is the opposite!
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w04-thu-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Split screen — left: chaos of 15 browser tabs. Right: a calm window with a single star.
 
@@ -166,6 +170,7 @@ Voya makes trip planning feel like the right side.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w04-fri-cryptic.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Two phones side by side, both showing travel content — but one is calmer, simpler.
 
@@ -196,6 +201,7 @@ Comment what you think ⬇️ ✦
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w04-sat-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Borneo rainforest canopy at dawn — mist, green, total silence feeling.
 
@@ -229,7 +235,7 @@ You can find places like this through Voya.
 1. "Best guess of the week" — showcase 2-3 comment guesses (anonymised with ❤️).
 2. Poll: "Kamu dah follow Voya? / Are you following Voya?" — YES ✦ / NOW I AM
 3. Teaser: "Waitlist opens soon. 👀"
-4. Destination this-or-that: "Redang 🏝️ vs Sipadana 🐠"
+4. Destination this-or-that: "Redang 🏖️ vs Sipadan 🐠"
 5. "Week 5 — more clues. ✦ Monday."
 
 ---
@@ -246,6 +252,7 @@ Week 5: 30 days in. Lean into community speculation. Hint that Voya is a marketp
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w05-mon-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Airport departure hall — person sitting with luggage, staring at the flight board, exhausted.
 
@@ -275,6 +282,7 @@ When the journey starts here...
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w05-tue-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "30" counter in gold appears on indigo, counts up from 0 fast.
 
@@ -298,7 +306,7 @@ Do you remember your first guess? Comment it. 👇
 ```
 
 **Stories (3 frames):**
-1. "Your Day 1 guess vs now" — question sticker (evolving guesses are fun content).
+1. "Your Day 1 guess vs now" — question sticker.
 2. Poll: "Kamu lebih dekat ke sekarang? / Closer to guessing now?" — DEFINITELY / STILL LOST
 3. Repost.
 
@@ -308,6 +316,7 @@ Do you remember your first guess? Comment it. 👇
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w05-wed-star.mp4` + `voya-w05-wed-carousel-s01–s06.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -332,8 +341,8 @@ Do you remember your first guess? Comment it. 👇
 | Slide | Higgsfield image prompt | Text overlay |
 |---|---|---|
 | S1 (Cover) | Indigo, gold star | **"5 tempat yang Voya fikirkan. / 5 places Voya is thinking about."** |
-| S2 | Moody aerial of Langkawi archipelago at dusk — islands silhouetted | "01. The Islands 🏝️" |
-| S3 | KL city night — KLCC lit up, vivid reflections | "02. The Capital 🌆" |
+| S2 | Moody aerial of Langkawi archipelago at dusk — islands silhouetted | "01. The Islands 🏖️" |
+| S3 | KL city night — KLCC lit up, vivid reflections | "02. The Capital 🏙" |
 | S4 | Sabah Kinabalu at sunrise — epic scale | "03. The Summit ⛰️" |
 | S5 | Terengganu crystal water, tiny fishing boat | "04. The Coast 🌊" |
 | S6 (End) | Indigo, star, DM Serif | **"Dan banyak lagi. Tunggu. / And many more. Wait. ✦ Voya."** |
@@ -358,6 +367,7 @@ Which would you go to first? 👇
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w05-thu-cryptic.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Phone screen with a translation app — "Voya" being typed in.
 
@@ -386,6 +396,7 @@ Voya (v.) — To journey. To find. To arrive.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w05-fri-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Ferry bow cutting through water toward Penang island at sunset.
 
@@ -415,6 +426,7 @@ Penang is waiting.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w05-sat-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Text bubbles pop up on indigo: "It's a travel app?" — question mark lingers.
 
@@ -469,6 +481,7 @@ Apa kata kamu? / What do YOU say?
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w06-mon-cta.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Dark screen. Text appears: "Jadi yang pertama tahu. / Be the first to know."
 
@@ -500,6 +513,7 @@ Link di bio. / Link in bio. ✦
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w06-tue-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Plane window — final approach into KLIA, KL visible below.
 
@@ -529,6 +543,7 @@ Welcome home. And welcome to going.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w06-wed-engage.mp4` + `voya-w06-wed-carousel-s01–s06.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -582,6 +597,7 @@ Link di bio. / Link in bio. ✦
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w06-thu-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Darkness. A sparkler trace begins forming a four-pointed star in long-exposure gold.
 
@@ -611,6 +627,7 @@ Our name: Voya.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w06-fri-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Phone screen — a group chat exploding with flight links and messages.
 
@@ -635,7 +652,7 @@ Voya's got you.
 **Stories (3 frames):**
 1. Poll: "Group trips: exciting 🎉 / absolute chaos 😩"
 2. "Tag your most chaotic group trip friend 👇" — question sticker.
-3. Link: "Join waitlist ✦"
+3. Link: "Join waitlist ✦ September."
 
 ---
 
@@ -643,6 +660,7 @@ Voya's got you.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w06-sat-countdown.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Bold "31" appears in gold on indigo, like a countdown.
 
@@ -676,7 +694,7 @@ Kamu siap? / Are you ready?
 **5 story frames:**
 1. Waitlist milestone tease: "People are joining. Are you? ✦ Link in bio."
 2. Poll: "Dah join list? / On the waitlist?" — YES / JOINING NOW
-3. This-or-that: "Maldives 🏝️ vs Switzerland 🏔️"
+3. This-or-that: "Maldives 🏖️ vs Switzerland 🏔️"
 4. Countdown: days to September.
 5. "Week 7. Last week of July phase. August gets intense. ✦"
 
@@ -694,6 +712,7 @@ Week 7: urgency increases. More direct references to timing. "August" openly men
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w07-mon-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Sabah orange dawn — the sky is on fire over the South China Sea.
 
@@ -722,6 +741,7 @@ Sabah.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w07-tue-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Map of Malaysia zooms in — states flash one by one, each labelled.
 
@@ -752,6 +772,7 @@ Comment your pick 👇 ✦
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w07-wed-cryptic.mp4` + `voya-w07-wed-carousel-s01–s08.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -810,6 +831,7 @@ Link di bio — be the first. ✦
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w07-thu-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Calendar animation — pages flip to August, stop. Star appears.
 
@@ -831,7 +853,7 @@ Countdown dah bermula. / The countdown has begun.
 
 **Stories (3 frames):**
 1. Countdown sticker: "Voya arrives September."
-2. "Share this to your story ✦" — reshare prompt.
+2. "Share this countdown with someone who needs to know. ✦"
 3. Poll: "Kamu excited? / Excited?" — SO MUCH / STILL CURIOUS
 
 ---
@@ -840,6 +862,7 @@ Countdown dah bermula. / The countdown has begun.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w07-fri-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Solo traveller at a hostel, comparing prices on two phones simultaneously.
 
@@ -872,6 +895,7 @@ Voya has the answer.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w07-sat-wanderlust-cta.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Aerial — pure turquoise Redang waters from directly above.
 

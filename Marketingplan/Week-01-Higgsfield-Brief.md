@@ -11,6 +11,8 @@
 - **Images → GPT Image 2** (7 diamonds per generation)
 - **Audio → royalty-free only** (Pixabay / Epidemic Sound — skip `generate_audio` to save diamonds)
 
+**Video spec:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
+
 **Diamond budget for tonight:**
 
 | Item | Count | Cost each | Total |
@@ -44,6 +46,7 @@
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-mon-star.mp4`
 **Duration:** 10 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -65,6 +68,7 @@ Ultra-cinematic macro shot. A four-pointed star of light appears from total dark
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-tue-wanderlust.mp4`
 **Duration:** 12 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -82,6 +86,7 @@ Cinematic aerial drone shot over a turquoise tropical island, Malaysian style re
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-wed-cryptic.mp4`
 **Duration:** 10 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -136,6 +141,7 @@ Aerial ocean at dawn. Sun is just rising at horizon. A star-shaped lens flare ca
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-thu-wanderlust.mp4`
 **Duration:** 12 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -153,6 +159,7 @@ Cinematic interior train shot, camera looking out the window. Dense Malaysian ju
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-fri-star.mp4`
 **Duration:** 10 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -172,6 +179,7 @@ Abstract motion graphic. Black background. A single gold pixel appears at centre
 **Higgsfield tool:** `generate_video`
 **Output file:** `Videos/voya-w01-sat-wanderlust.mp4`
 **Duration:** 15 seconds
+**Dimensions:** `1080 × 1920 px` (9:16 vertical)
 
 **Prompt:**
 ```
@@ -222,6 +230,7 @@ Before scheduling any asset to post, verify:
 - [ ] No product features, no text explaining what Voya is.
 - [ ] Logo overlay (where added) uses `Voya.png` — not a regenerated version.
 - [ ] Video length is within TikTok/IG Reels spec (max 60s, our target 8–15s — no issue).
+- [ ] Video dimensions are `1080 × 1920 px` (9:16 vertical) before posting.
 - [ ] Caption is loaded into scheduling tool (Buffer/Later) with correct hashtags.
 
 ---
