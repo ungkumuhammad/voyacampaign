@@ -17,6 +17,7 @@ Week 1 theme: the mark materialises from nothing. The name appears once or twice
 **Post time:** 12:00pm MYT
 **Platform:** TikTok + IG Reels
 **Output file:** `voya-w01-mon-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Darkness. One pinprick of gold light appears centre-frame.
 
@@ -43,6 +44,7 @@ Week 1 theme: the mark materialises from nothing. The name appears once or twice
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w01-tue-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Turquoise water filling the frame from above, horizon barely visible.
 
@@ -61,7 +63,7 @@ Voya.
 
 **Stories (3 frames):**
 1. Frame from the video with question sticker: "Where is this? 📍"
-2. Poll: "Langkawi atau Perhentian? 🏝️"
+2. Poll: "Langkawi atau Perhentian? 🏖️"
 3. Star ✦ on dark background — no text.
 
 ---
@@ -70,6 +72,7 @@ Voya.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w01-wed-cryptic.mp4` + `voya-w01-wed-carousel-s01–s06.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -119,6 +122,7 @@ Something is being made. Wait.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w01-thu-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Rushing green jungle blur through a rain-streaked train window.
 
@@ -145,6 +149,7 @@ Something is being made. Wait.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w01-fri-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Total darkness. A single pixel of gold light.
 
@@ -171,6 +176,7 @@ Something is being made. Wait.
 
 **Post time:** 7:00pm MYT (evening content matches sunset theme)
 **Output file:** `voya-w01-sat-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Camera low to wet sand, orange sky reflection rushing toward lens.
 
@@ -202,7 +208,7 @@ Voya. Soon.
 1. Poll: "Dah teka apa Voya ni? / Figured out what Voya is?" — YEP / NO IDEA
 2. Repost week's top-performing video.
 3. "Week 2 starts tomorrow. ✦"
-4. This-or-that: "Cameron Highlands 🏔️ vs Pulau Tioman 🏝️"
+4. This-or-that: "Cameron Highlands 🏔️ vs Pulau Tioman 🏖️"
 5. Dark background + star — no text. (Brand reminder.)
 
 ---
@@ -219,6 +225,7 @@ Week 2 theme: the name becomes more visible. Visual language expands. Still zero
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w02-mon-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** KL city at dusk, fading into blue-indigo, lights starting to blink on.
 
@@ -245,6 +252,7 @@ Week 2 theme: the name becomes more visible. Visual language expands. Still zero
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w02-tue-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Thick white mist filling the frame, then green hills slowly emerging.
 
@@ -271,6 +279,7 @@ Voya.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w02-wed-cryptic.mp4` + `voya-w02-wed-carousel-s01–s07.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -296,7 +305,7 @@ One thing is about to change.
 | Slide | Higgsfield image prompt | Text overlay |
 |---|---|---|
 | S1 (Cover) | Indigo gradient, gold star ✦ | **"Ke mana Voya akan bawa kamu? / Where would Voya take you?"** |
-| S2 | Aerial Langkawi — turquoise lagoon, jungle-edged islands | "Langkawi 🏝️" (DM Sans small) |
+| S2 | Aerial Langkawi — turquoise lagoon, jungle-edged islands | "Langkawi 🏖️" (DM Sans small) |
 | S3 | Sabah coast — crystal water, jungle canopy, dawn | "Sabah 🌿" |
 | S4 | George Town Penang — heritage street, warm evening light | "Penang 🏮" |
 | S5 | Terengganu coast — white sand, vivid turquoise, fishing boats | "Terengganu 🌊" |
@@ -314,7 +323,7 @@ Pick your destination. 👇
 
 **Stories (3 frames):**
 1. "Dari carousel tu — mana pilihan kamu? / From the carousel — which is your pick?" — question sticker.
-2. Poll: "Sabah atau Langkawi? 🐢🏝️"
+2. Poll: "Sabah atau Langkawi? 🐢🏖️"
 3. Countdown: "Something's coming ✦"
 
 ---
@@ -323,6 +332,7 @@ Pick your destination. 👇
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w02-thu-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Overhead shot — a laptop with MANY browser tabs open, a pair of hands hovering over keyboard, overwhelmed.
 
@@ -352,6 +362,7 @@ You know this feeling.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w02-fri-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Reflection of sunglasses lens — city is visible in it, then a star flares.
 
@@ -380,6 +391,7 @@ You know this feeling.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w02-sat-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Street level — colourful night market lights reflected in a rain puddle.
 
@@ -428,6 +440,7 @@ Week 3 theme: Phase A finale. Visual identity fully established. First very subt
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w03-mon-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Turquoise ocean from above, camera descending fast.
 
@@ -447,7 +460,7 @@ Malaysia.
 
 **Stories (3 frames):**
 1. "Mana satu dari tiga destinasi tu kau nak pergi? / Which of those 3 would you pick?" — question sticker.
-2. Poll: "Island 🏝️ vs Jungle 🌿 vs City 🏙️ — one answer."
+2. Poll: "Island 🏖️ vs Jungle 🌿 vs City 🏙️ — one answer."
 3. "Week 3. The last quiet one. ✦"
 
 ---
@@ -456,6 +469,7 @@ Malaysia.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w03-tue-star.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Extreme close on geometric star, out of focus, slowly sharpening.
 
@@ -482,6 +496,7 @@ Malaysia.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w03-wed-cryptic.mp4` + `voya-w03-wed-carousel-s01–s07.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 *(First subtle hint: Voya makes planning easier. Not stated — only felt.)*
@@ -535,6 +550,7 @@ It all starts from one right decision.
 
 **Post time:** 9:00pm MYT *(night scroll behaviour — matches the scene)*
 **Output file:** `voya-w03-thu-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Someone in bed, phone screen casting blue light on their face — deep in travel scroll.
 
@@ -564,6 +580,7 @@ What if there was an easier way...
 
 **Post time:** 6:00am MYT *(dawn content — catch early risers)*
 **Output file:** `voya-w03-fri-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Inky black sky — just the faintest horizon glow beginning.
 
@@ -593,6 +610,7 @@ Soon.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w03-sat-cryptic.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Dark screen. Letters materialise one by one.
 
