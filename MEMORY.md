@@ -4,6 +4,57 @@
 
 ---
 
+## SESSION 3 — 2026-06-20 (tonight)
+
+### What was done this session
+
+1. **Confirmed Higgsfield MCP connected** — balance check returned 974 credits, Plus plan. Connection verified.
+
+2. **Read Week-01-Higgsfield-Brief.md** — confirmed tonight's production queue and diamond budget (28–35 diamonds for images only).
+
+3. **Smoke tested Monday Star video generation** — ran `seedance_2_0` with `mode: fast`. Video generated (job `62a84992-e2ab-4703-a5d2-41f3a7e4a0f7`, 10s, 720p, completed). **Cost: 35 credits** — wrong model path used. Balance now **939**.
+
+4. **Investigated Enhanced Seedance 2.0 Fast Unlimited** — transaction history confirmed 19+ generations today at 0 credits under display name "Enhanced Seedance 2.0 Fast Unlimited". This model is **web UI only — not accessible via MCP API**. MCP's `seedance_2_0` + `mode: fast` routes to internal `seedance_2_0_fast` but still charges 35 credits. The MCP preflight also does not reflect unlimited plan promos.
+
+5. **Created Google Drive folder structure** — built full path under Voya > Deliverables:
+
+| Folder | Drive ID |
+|---|---|
+| `Voya Campaign Assets` | `1xNqaO7PUtNN3X53pYD4okvSuIm8F3PGw` |
+| `Phase-A-Whisper` | `1kePpG79pda5xrRGOtngzcAymbCy-o5EG` |
+| `Week-01` | `1_4mSVVF2x4o43fDOxLayeD1SE4fP2EAl` |
+| `Week-01/Videos` | `1-sB0iBD_qaObEwkxNC_HZBP21naNY9vi` |
+| `Week-01/Carousel` | `1EeIV5jgt3nUDyqHt1uC9Qvo2MEHg0WGk` |
+
+6. **Discovered CloudFront download limitation** — Higgsfield output URLs (`d8j0ntlcm91z4.cloudfront.net`) and input media URLs (`d2ol7oe51mr4n9.cloudfront.net`) both return 403 from this server environment. They require browser-session signed cookies. MCP cannot push Higgsfield videos to Google Drive directly.
+
+7. **Selected Higgsfield workspace** — `c7941151-daa6-487a-9f57-b3c3d9b45110` (private, Plus plan). Was `is_selected: false` at session start — explicitly selected via `select_workspace`. Should persist across sessions.
+
+---
+
+### Critical workflow decisions from this session
+
+| Item | Finding | Action |
+|---|---|---|
+| Video generation | "Enhanced Seedance 2.0 Fast Unlimited" = **web UI only**, 0 credits | Generate all 6 videos in Higgsfield **browser app**, not via MCP |
+| Image generation | GPT Image 2 via MCP = works, 7 credits each | Use MCP for carousel images |
+| Virality check | `virality_predictor` via MCP = available | Run after each video via MCP if given video URL |
+| Drive upload — videos | MCP cannot download Higgsfield output URLs | User downloads from Higgsfield UI → manually uploads to Drive |
+| Drive upload — images | MCP can create files if bytes available | TBD — test in next image session |
+| MCP preflight cost | Does NOT reflect unlimited promos | Never use preflight to decide if free — check transactions instead |
+
+---
+
+### Next session actions (updated)
+
+1. **Generate all 6 videos in Higgsfield web UI** using "Enhanced Seedance 2.0 Fast Unlimited" — follow prompts in `Week-01-Higgsfield-Brief.md` in priority order (Asset 6 → 1 → 7 → 2 → 3 → 5)
+2. **Download each video** from Higgsfield web UI and upload to `Week-01/Videos` folder in Drive (`1-sB0iBD_qaObEwkxNC_HZBP21naNY9vi`)
+3. **Run virality_predictor** via MCP on each video URL after upload (pass Drive shared link or re-import URL)
+4. **Generate carousel images (Slides 2–5)** via MCP using GPT Image 2 — batch 4 images
+5. **Build Week-02-Higgsfield-Brief.md**
+
+---
+
 ## SESSION 2 — 2026-06-20
 
 ### What was done this session
@@ -57,8 +108,8 @@
 - [ ] **Social handles secured** — `@voya` (or agreed handle) on TikTok, Instagram, Facebook — **BLOCKER for Jun 23**
 - [ ] **Waitlist landing page** — simple email capture, no product detail — **BLOCKER for Week 6 (Jul 28)**
 - [ ] **Brand asset kit** — `Voya.png` star mark, hex codes `#3C1DDE` / `#EAA520`, DM fonts — needed for Higgsfield overlays
-- [ ] **Higgsfield MCP** — added to config but needs new session + trust dialog approval before production run can begin
-- [ ] **Google Drive folder** — create `Voya Campaign Assets/Phase-A-Whisper/Week-01/` before tonight's generation
+- [x] **Higgsfield MCP** — confirmed connected in Session 3. Workspace `c7941151-daa6-487a-9f57-b3c3d9b45110` selected.
+- [x] **Google Drive folder** — created `Voya Campaign Assets/Phase-A-Whisper/Week-01/Videos` + `Carousel` in Session 3
 
 ---
 
@@ -120,7 +171,7 @@
 |---|---|---|
 | GitHub | Connected | `mcp__github__*` |
 | Google Drive | Connected | `mcp__3e1b5ace-c559-48a8-97f1-164239b204bb__*` |
-| Higgsfield | **Added but needs new session** | `mcp__higgsfield__*` (expected) |
+| Higgsfield | **Connected** | `mcp__Higgsfield__*` |
 
 ---
 
