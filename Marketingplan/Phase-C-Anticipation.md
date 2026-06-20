@@ -16,6 +16,7 @@ Week 8 opener: explicit countdown begins. The travel category is stated for the 
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w08-mon-countdown.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Bold "21" on indigo — like a launch countdown has started.
 
@@ -49,6 +50,7 @@ Malaysian travellers — something is being built for you.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w08-tue-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Faces-in-motion montage — Malaysian-looking travellers at airports, beaches, cities.
 
@@ -81,6 +83,7 @@ Voya. September.
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w08-wed-cryptic.mp4` + `voya-w08-wed-carousel-s01–s08.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -139,6 +142,7 @@ Join the waitlist. Link di bio. ✦
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w08-thu-star-countdown.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Numbers count down: 21... 20... 19... in rapid succession, then STOP.
 
@@ -172,6 +176,7 @@ Link di bio. ✦
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w08-fri-relatable.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Calendar on phone showing Hari Raya Haji / national holiday clusters — August is packed.
 
@@ -203,6 +208,7 @@ September. ✦ Link di bio.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w08-sat-wanderlust-fomo.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Epic wide shot — person standing at the edge of something vast (cliff, summit, beach).
 
@@ -256,6 +262,7 @@ Week 9: the penultimate week. Energy at its highest outside of Week 10. "You'll 
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w09-mon-countdown.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "14" in massive gold type fills the frame.
 
@@ -289,6 +296,7 @@ Malaysian travellers — Voya is almost here.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w09-tue-engage.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "Last chance to guess. Winner gets early access."
 
@@ -322,6 +330,7 @@ Comment your best guess 👇
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w09-wed-star.mp4` + `voya-w09-wed-carousel-s01–s07.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO — Flagship Brand Film**
 *(The most premium production of the entire campaign. This is the most shareable asset.)*
@@ -379,6 +388,7 @@ Voya. September. ✦ Link di bio.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w09-thu-tease.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Text: "We're about to show you what Voya does."
 
@@ -412,6 +422,7 @@ Link di bio.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w09-fri-wanderlust.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Langkawi archipelago aerial — the most beautiful shot of the campaign.
 
@@ -443,6 +454,7 @@ Link di bio. ✦
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w09-sat-countdown-fomo.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "7 days." Bold. Gold. Centre frame.
 
@@ -497,6 +509,7 @@ Final week. Every post is a reason to join the waitlist. September is named expl
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w10-mon-countdown.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "7. 6. 5. 4. 3. 2. 1." — numbers flash in rapid sequence.
 
@@ -532,6 +545,7 @@ Are you on the list? Link in bio.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w10-tue-engage-lastcall.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** "Peluang terakhir. / Last chance." — red-adjacent urgency on indigo.
 
@@ -566,6 +580,7 @@ Comment sekarang 👇 Pengumuman: Jumaat / Announcement: Friday ✦
 
 **Post time:** 12:00pm MYT (video) · 6:00pm MYT (carousel)
 **Output files:** `voya-w10-wed-september.mp4` + `voya-w10-wed-carousel-s01–s08.jpg`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **VIDEO**
 
@@ -630,6 +645,7 @@ Voya. ✦ Link in bio — join the list now.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w10-thu-star-premium.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Pure silence and black. Longer than any previous opening.
 
@@ -661,6 +677,7 @@ Voya.
 
 **Post time:** 12:00pm MYT
 **Output file:** `voya-w10-fri-wanderlust-final.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Also Friday: Early access winner announcement in Stories**
 
@@ -698,6 +715,7 @@ Link di bio.
 
 **Post time:** 7:00pm MYT
 **Output file:** `voya-w10-sat-almostready.mp4`
+**Dimensions:** `1080 × 1920 px` (9:16 vertical) · MP4 · 24–30 fps
 
 **Hook (first 3s):** Dark screen. Text: "Kami hampir sedia."
 
